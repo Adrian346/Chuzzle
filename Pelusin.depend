@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1513301665 source:c:\users\laura ale ortiz rdz\downloads\pelusin\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+
+1510942456 source:f:\pelusin\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+
+1510940546 source:h:\pelusin\main.cpp
+	<allegro.h>
+	<iostream>
+
+1510942456 source:f:\proyectos_allegro\pelusin\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+
+1511617024 c:\users\laura ale ortiz rdz\downloads\pelusin\include\matriz.h
+
+1511617208 source:c:\users\laura ale ortiz rdz\downloads\pelusin\src\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1513332017 source:c:\users\adrian lopez\documents\proyecto chuzzle\pelusin\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1511620810 source:c:\users\adrian lopez\documents\proyecto chuzzle\pelusin\src\matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1511620626 c:\users\adrian lopez\documents\proyecto chuzzle\pelusin\include\matriz.h
+
